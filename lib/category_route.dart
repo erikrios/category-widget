@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:category_widget/category.dart'
+import 'package:category_widget/category.dart';
 
 final _backgroundColor = Colors.green;
 
